@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 <div align="center">
-  <img src="Resources_/Data.png" width="80%">
+  <img src="Resource/Data.png" width="80%">
   <p><em>Figure 1: Actual Production vs 4th-Degree Polynomial Trend vs Taylor Series Approximation (2018-2030)</em></p>
 </div>
 
